@@ -7,6 +7,12 @@ The 3D reconstruction of objects from 2D images is a fundamental problem in Comp
 
 This project implements the **Single-View PSGN (Point Set Generation Network)** approach, generating a point cloud based on a single RGB image input.
 
+### Technologies Used:
+* **Python**, **PyTorch**, **Torchvision**
+* **Open3D** / **Trimesh** (for 3D point cloud processing)
+* **Plotly / Matplotlib** (for 3D scatter plots and loss curve visualization)
+
+  
 ## 2. Literature Review & References
 To establish the technical foundation of the approach, I studied the following State-of-the-Art research papers:
 
