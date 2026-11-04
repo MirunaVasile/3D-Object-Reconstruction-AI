@@ -52,11 +52,12 @@ The optimization process was highly stable. By analyzing the training history, t
 *(See the loss evolution chart below)*
 
 ![Chamfer Loss Evolution](pictures/tabel_eroare.png)
+![Chamfer Loss Evolution2](pictures/evolutie_eroare.png)
 > **Figure 1:** The evolution of the Chamfer Loss over 50 epochs. The lowest error (0.0558) was achieved at Epoch 45.
 
 Visually, the model successfully captures the general volumetry of the objects (e.g., the length of chair legs or the width of a table).
 
-![2D vs AI Prediction vs Ground Truth](path/to/your/visual_comparison_image.png)
+![2D vs AI Prediction vs Ground Truth](pictures/comparatie.png)
 > **Figure 2:** Comparison from left to right: 1. Network Input (2D Image) | 2. AI Prediction (3D Point Cloud) | 3. Ground Truth (Pix3D).
 
 ## 6. Conclusions & Performance Analysis
