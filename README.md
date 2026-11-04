@@ -51,7 +51,7 @@ The optimization process was highly stable. By analyzing the training history, t
 
 *(See the loss evolution chart below)*
 
-![Chamfer Loss Evolution](path/to/your/chamfer_loss_plot.png)
+![Chamfer Loss Evolution](pictures/tabel_eroare.png)
 > **Figure 1:** The evolution of the Chamfer Loss over 50 epochs. The lowest error (0.0558) was achieved at Epoch 45.
 
 Visually, the model successfully captures the general volumetry of the objects (e.g., the length of chair legs or the width of a table).
